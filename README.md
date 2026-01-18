@@ -78,18 +78,22 @@
 <h2>📈 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramiz200&show_icons=true&theme=dark" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramiz200&theme=dark" />
 </p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiz200&layout=compact&theme=dark" />
+</p>
+
 
 ---
 
 <h2>📫 Contact</h2>
 
 <p>
-  📧 Email: your-email@example.com <br/>
+  📧 Email: ramizragaey200@gmail.com <br/>
   🌍 Portfolio: https://ramizragaey.netlify.app
 </p>
